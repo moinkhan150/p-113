@@ -1,0 +1,5 @@
+@keyframes example
+{
+    from {box-shadow: 1px 10px 40px lightblue;}
+    to {box-shadow: 1px 10px 40px lightgreen;}
+}
